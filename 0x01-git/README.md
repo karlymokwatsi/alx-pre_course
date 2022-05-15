@@ -1,3 +1,3 @@
 First readme
 
-read me updating
+readme updating
